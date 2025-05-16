@@ -1,4 +1,4 @@
-name: Flakes Check
+name: Flake8 Check
 
 on: [push, pull_request]
 
